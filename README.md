@@ -1,10 +1,10 @@
 ### Hello 👋 I'm Dominick Harper
 
-Full Stack Software Engineer
+**Full Stack Software Engineer
 
 I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML and CSS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
 
-Skills
+**Skills**
 Cross-Browser Composition
 HTML: A range of elements and attributes needed in everyday web development work, up-to-date with industry standards; an understanding of fundamental syntax; the use of meta tags, favicons, and web fonts.
 CSS: Key concepts and technologies such as classes, IDs and elements, positioning, Flexbox, Grid layout, media queries, work with forms, animations, transformations.

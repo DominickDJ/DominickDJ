@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer**
 
-I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML, CSS, JS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
+I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML and CSS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
 
 **Skills**
 
@@ -32,9 +32,8 @@ Containerization and deployment of applications with Docker.
 If you're interested in learning more or have a potential project for me to work on, please feel free to contact me at dominickdustinjames@gmail.com. Thank you for considering my profile!
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Preparing for graduation at Practicum!
+- 🌱 I’m currently learning React, Rest API, Node, Express, Mongo and Google Cloud
+- 👯 I’m looking to Advance my career
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript

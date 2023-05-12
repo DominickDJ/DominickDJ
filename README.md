@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer**
 
-I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML and CSS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
+I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML, CSS, JS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
 
 **Skills**
 

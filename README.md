@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Dominick Harper
 
-**Full Stack Software Engineer
+**Full Stack Software Engineer**
 
 I am a full-stack software engineer who studied at Practicum and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML and CSS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
 

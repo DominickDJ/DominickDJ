@@ -16,10 +16,10 @@ Writing asynchronous code using callbacks, promises, async/await;
 Single threading, "main thread" and "event loop queue";
 AJAX, API requests and utilize XMLHttpRequest and using JSON;
 The concept of modules. ES6 modules.
-React
+- React
 Well-rounded understanding of core contemporary web technologies, the difference between traditional static file server websites and single page applications;
 Principles behind this popular framework. Working with React Tools, React Hooks, and React Router. Managing React State.
-Backend
+- Backend
 Creating and setting up a server with Node.js;
 Installation and setup of express.js;
 Creating a REST API;

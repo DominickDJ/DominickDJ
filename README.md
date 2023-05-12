@@ -6,20 +6,20 @@ I am a full-stack software engineer who studied at Practicum and has a passion f
 
 **Skills**
 - Cross-Browser Composition
-- HTML: A range of elements and attributes needed in everyday web development work, up-to-date with industry standards; an understanding of fundamental syntax; the use of meta tags, favicons, and web fonts.
-- CSS: Key concepts and technologies such as classes, IDs and elements, positioning, Flexbox, Grid layout, media queries, work with forms, animations, transformations.
+- **HTML:** A range of elements and attributes needed in everyday web development work, up-to-date with industry standards; an understanding of fundamental syntax; the use of meta tags, favicons, and web fonts.
+- **CSS:** Key concepts and technologies such as classes, IDs and elements, positioning, Flexbox, Grid layout, media queries, work with forms, animations, transformations.
 JavaScript
-- JS: Deep understanding of the JavaScript including the web API and its use in DOM manipulation; familiarity with both ES6+ syntax such as the relationship between constructor functions and class syntax and experience writing production ready programs in JavaScript.
+- **JS:** Deep understanding of the JavaScript including the web API and its use in DOM manipulation; familiarity with both ES6+ syntax such as the relationship between constructor functions and class syntax and experience writing production ready programs in JavaScript.
 - Experience building using variables, conditionals (if statements, ternary operators, etc.), loops and functions;
 Different types and structures of data, the ability to consciously (explicitly and implicitly) work with varying data types;
 Writing asynchronous code using callbacks, promises, async/await;
 Single threading, "main thread" and "event loop queue";
 AJAX, API requests and utilize XMLHttpRequest and using JSON;
 The concept of modules. ES6 modules.
-- React
+- **React**
 Well-rounded understanding of core contemporary web technologies, the difference between traditional static file server websites and single page applications;
 Principles behind this popular framework. Working with React Tools, React Hooks, and React Router. Managing React State.
-- Backend
+- **Backend**
 Creating and setting up a server with Node.js;
 Installation and setup of express.js;
 Creating a REST API;

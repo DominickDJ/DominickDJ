@@ -31,10 +31,10 @@ Containerization and deployment of applications with Docker.
 If you're interested in learning more or have a potential project for me to work on, please feel free to contact me at dominickdustinjames@gmail.com. Thank you for considering my profile!
 
 
-- 🔭 I’m currently working on Preparing for graduation at Practicum!
-- 🌱 I’m currently learning React, Rest API, Node, Express, Mongo and Google Cloud
+- 🔭 I’m currently working on Preparing for graduation at TripleTen!
+- 🌱 I’m currently learning React, Node, Express, Mongo and Google Cloud
 - 👯 I’m looking to Advance my career
-
+- 
 - 📫 How to reach me **dominickdustinjames@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

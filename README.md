@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Dominick Dustin James Harper</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
 
-I am a Full-Ftack Software Engineer who studied at TripleTen and has a passion for creating high quality, efficient software solutions. My experience includes building cross-browser compositions with HTML and CSS, designing responsive applications, and developing complex, production-ready programs with JavaScript.
+I am a highly skilled Full-Stack Software Engineer proficient in HTML, CSS, JavaScript, React, and backend development. I have expertise in HTML elements and attributes, CSS concepts like classes, positioning, Flexbox, Grid layout, and media queries. My JavaScript knowledge includes DOM manipulation, ES6+ syntax, asynchronous coding, data types, and modules. I have a well-rounded understanding of React, including React Tools, Hooks, Router, and state management. On the backend, I excel in Node.js, Express.js, REST API development, JWT Authentication, SQL databases, web security, automated testing, and Docker deployment.
 
 **Skills**
 

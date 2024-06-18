@@ -30,13 +30,6 @@ Containerization and deployment of applications with Docker.
 
 If you're interested in learning more or have a potential project for me to work on, please feel free to contact me at dominickdustinjames@gmail.com. Thank you for considering my profile!
 
-
-- 🔭 I’m currently working on Preparing for graduation at TripleTen!
-- 🌱 I’m currently learning React, Node, Express, Mongo and Google Cloud
-- 👯 I’m looking to Advance my career
-- 
-- 📫 How to reach me **dominickdustinjames@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dominick-harper-44bb82259?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bzd8%2fla4kttkubkrplbqipw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dominick-harper-44bb82259?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bzd8%2fla4kttkubkrplbqipw%3d%3d" height="30" width="40" /></a>
